@@ -2,7 +2,7 @@
 
 Claude, Codex에서 사용 가능한 앱인토스 에이전트 스킬 모음입니다.
 
-## Plugin & Skills (from .claude-plugin/marketplace.json)
+## Plugin & Skills
 
 - Plugin `knowlege-skills`
   - Description: Collection of Apps in Toss knowledge
