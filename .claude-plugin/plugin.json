@@ -1,0 +1,9 @@
+{
+  "name": "apps-in-toss-skills",
+  "version": "1.0.0",
+  "description": "Apps in Toss Mini App Agent Skills",
+  "author": {
+    "name": "Toss"
+  },
+  "repository": "https://github.com/toss/apps-in-toss-skills"
+}

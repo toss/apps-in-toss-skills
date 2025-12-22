@@ -1,0 +1,17 @@
+{
+  "name": "apps-in-toss-skills",
+  "owner": {
+    "name": "Toss",
+    "email": "support@toss.im"
+  },
+  "plugins": [
+    {
+      "name": "apps-in-toss-skills",
+      "description": "Apps in Toss Mini App Agent Skills",
+      "source": {
+        "source": "github",
+        "repo": "toss/apps-in-toss-skills"
+      }
+    }
+  ]
+}
