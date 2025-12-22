@@ -6,12 +6,13 @@
   },
   "plugins": [
     {
-      "name": "apps-in-toss-skills",
-      "description": "Apps in Toss Mini App Agent Skills",
-      "source": {
-        "source": "github",
-        "repo": "toss/apps-in-toss-skills"
-      }
+      "name": "knowlege-skills",
+      "description": "Collection of Apps in Toss knowledge",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/docs-search"
+      ]
     }
   ]
 }
