@@ -6,7 +6,7 @@
   },
   "plugins": [
     {
-      "name": "knowlege-skills",
+      "name": "knowledge-skills",
       "description": "Collection of Apps in Toss knowledge",
       "source": "./",
       "strict": false,
