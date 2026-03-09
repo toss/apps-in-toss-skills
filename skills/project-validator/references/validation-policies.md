@@ -28,7 +28,7 @@ These validations must pass for a project to be considered valid:
 
 **Required structure:**
 ```typescript
-import { defineConfig } from '@apps-in-toss/web-framework';
+import { defineConfig } from '@apps-in-toss/web-framework/config';
 
 export default defineConfig({
   appName: 'your-app-name',
